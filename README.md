@@ -2,11 +2,9 @@
 This repository is designed to answer the Coursera's course : Applied Data Science Capstone.
 
 The idea is to apply the theoratical knowledges about Data Science and Machine Learning achieved during previous Coursera's lessons to a concrete project.
-This project still need to be defined, so stay tuned to see the improvements!
 
-01/01/2020: 
-* Creation of the repository;
-* Updloading the 1st version Jupyter Notebook used for this project, answering the requirements of the 1st module.
+Two different projects are present in this repository:
+ * Neighbirhoods in Toronto: training with k-means algorithm
+ * Capstone project: analysis of Parisian neighborhood based on their restaurants and done by k-means algorithm.
 
-**Warning:**  
-This project is currently in-progress and is designed to improve in the next weeks to meet the course requirements.
+The capstone project source code is in the dedicated notebook, a report and slides presentation are also provided.
